@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CursoAndroidBasicoSample</string>
+    <string name="android_course">Curso de android</string>
+    <string name="start">Comencemos</string>
+    <string name="prueba">Esto es un texto de prueba</string>
+    <string name="exit">Salir</string>
+    <string name="want_to_exit">¿Desea salir de la aplicación?</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="Car">Coche</string>
+</resources>
