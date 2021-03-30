@@ -3,6 +3,7 @@ package com.everis.cursoandroidbasicosample.ui
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
+import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.everis.cursoandroidbasicosample.databinding.ActivityMainBinding
 
@@ -18,9 +19,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initView() {
-        binding.startButton.setOnClickListener {
+        binding.startButton.setOnClickListener { v ->
             val intent = Intent(this@MainActivity, CarActivity::class.java)
             startActivity(intent)
         }
+        binding.title.text =""""""
     }
 }
