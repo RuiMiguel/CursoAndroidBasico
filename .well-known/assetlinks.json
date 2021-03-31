@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "es.gob.carpeta.pre",
+    "sha256_cert_fingerprints":
+    ["FA:D4:5A:86:42:0C:31:05:F7:B2:48:FD:A1:9F:19:5F:90:E5:06:BC:33:59:AE:56:DE:05:6B:CA:F5:D6:B7:9F"]
+  }
+}]
